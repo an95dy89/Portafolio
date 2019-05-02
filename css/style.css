@@ -1,6 +1,6 @@
 h1 {
   font-family: 'Lobster';
-  font-weight: bold;
+  font-weight: 700px;
   color: white
 }
 .mi-foto{
@@ -25,5 +25,18 @@ h3{
 font-family: "cabin";
 font-weight: 700;
 font-size: 50px;
-margin-top: auto;
+margin-top: 5px;
+}
+h4{
+  text-align: center;
+}
+
+.btn {
+  text-align: center;
+}
+i{
+  font-size: 30px;
+}
+.foo{
+  font-size: 35px;
 }
