@@ -82,7 +82,7 @@
     <br>
     <br>
      <div class="row">
-       <div class="col-4 p-4 text-center">
+       <div class="col-6 p-4 text-center">
          <h2 class="font-weight-bold" > Mis Conocimientos </h2>
        </div>
        <div class="col-6 bg-secondary text-white rounded pt-5 pb-1">
