@@ -130,7 +130,7 @@
         <!--seccion-->
         <div class="card-deck">
           <div class="card">
-            <a href="index_cafe1.html"><img class="card-img-top" src="assets/img/coffe.png" alt="Card image cap">
+            <a href="index_cafe1.php"><img class="card-img-top" src="assets/img/coffe.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Meet&coffe</h5>
               <p class="card-text">Maqueta de cafetria realizadacon el objetivo de mostrar actividades y contactos que se realizan en la cafeteria </p>
@@ -139,7 +139,7 @@
           </div>
 
           <div class="card">
-            <a href="index_iguana.html"><img class="card-img-top" src="assets/img/iguana.png" alt="Card image cap">
+            <a href="index_iguana.php"><img class="card-img-top" src="assets/img/iguana.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Iguana</h5>
               <p class="card-text">Maqueta realizada sobre caracteristicas de la iguna y mostrando imagenes de este animal</p>
@@ -148,7 +148,7 @@
           </div>
 
           <div class="card">
-            <a href="index_suricata.html"target="_blank"><img class="card-img-top" src="assets/img/suricata.png" alt="Card image cap">
+            <a href="index_suricata.php"target="_blank"><img class="card-img-top" src="assets/img/suricata.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Suricata</h5>
               <p class="card-text">Maqueta esta orienta como formato de e-comerce ofreciendo productos atraves de imagenes y con descripciones.</p>
@@ -157,7 +157,7 @@
 
           </div>
           <div class="card">
-            <a href="index_oliva.ros.html"><img class="card-img-top" src="assets/img/olivia.png" alt="Card image cap">
+            <a href="index_oliva.ros.php"><img class="card-img-top" src="assets/img/olivia.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Oliva Ross</h5>
               <p class="card-text">Maqueta esta orientada a comercio de alimentos pero se aplica una mayor interaccion atraves de jquery con el objetivo de mejoras la experiencia  </p>
@@ -166,7 +166,7 @@
 
           </div>
           <div class="card">
-            <a href="index_ricomida.html"><img class="card-img-top" src="assets/img/ricomida.png" alt="Card image cap">
+            <a href="index_ricomida.php"><img class="card-img-top" src="assets/img/ricomida.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Ricomida</h5>
               <p class="card-text">Maqueta esta orientada a comercio de alimentos pero se aplica una mayor interaccion atraves de jquery con el objetivo de mejoras la experiencia</p>
