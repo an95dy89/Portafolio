@@ -1,0 +1,11 @@
+body{
+  font-family: "raleway",sans-serif;
+}
+
+header{
+  background-image: url('../img_olivia_ros/bg-hero.jpg');<!-- sirve para colocar la imagen de fondo-->
+  background-repeat: no-repeat;<!-- para no se retita como maosaico-->
+  background-color: cover; <!-- se pone left para que parta de izquierda a deracha-->
+  padding-bottom: 10rem;
+
+}
