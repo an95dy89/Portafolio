@@ -67,7 +67,7 @@
        Soy un estudiante de la carrera desarrollador full stack en este periodo del curso  hemos hecho diferentes proyecto y aprendido a ocupar el lenguaje de HTML, CSS ,GIT , BOOSTRAP ,JQUERY y actualmente estoy  cursando ruby and rails el cual esta incompleto ya que aun no lo termino.
 
 
-       Me considero  una persona con mucho entuciasmo y ganas de generar un cambio, me gusta aprender,con metas y obejetivos muy claros .
+       Me considero  una persona con mucho entuciasmo y ganas de generar un cambio, me gusta aprender,con metas y objetivos muy claros .
       ademas de contar con la capacidad de poder trabajar en equipo
      </div>
    </div>
@@ -77,14 +77,14 @@
 
 <!--<section de conocimientos -->
 <section>
-   <div class="container my-6 py-2 mt-6">
+   <div class="container  my-3 py- mt-6">
     <br>
     <br>
      <div class="row">
-       <div class="col-6 p-4 text-center">
-         <h2 class="font-weight-bold" > Mis Conocimientos </h2>
+       <div class="col-3 p-4  text-center">
+         <h2 class="font-weight-bold" ></h2>
        </div>
-       <div class="col-6 bg-secondary text-white rounded pt-5 pb-1">
+       <div class="col-6  bg-secondary text-white rounded pt-5 pb-1">
          <div id="blogCarousel" class="carousel slide" data-ride="carousel">
 
            <div class="carousel-inner">
@@ -142,7 +142,7 @@
             <a href="index_iguana.php"><img class="card-img-top" src="assets/img/iguana.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Iguana</h5>
-              <p class="card-text">Maqueta realizada sobre caracteristicas de la iguna y mostrando imagenes de este animal</p>
+              <p class="card-text">Maqueta realizada sobre caracteristicas de la iguana y mostrando imagenes de este animal</p>
               <button type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#iguana">Ver más</button>
             </div>
           </div>
@@ -151,7 +151,7 @@
             <a href="index_suricata.php"target="_blank"><img class="card-img-top" src="assets/img/suricata.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Suricata</h5>
-              <p class="card-text">Maqueta esta orienta como formato de e-comerce ofreciendo productos atraves de imagenes y con descripciones.</p>
+              <p class="card-text">Maqueta esta orientada como formato de e-commerce ofreciendo productos atravez de imagenes y con descripciones.</p>
               <button type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#suricata">Ver más</button>
             </div>
 
@@ -160,7 +160,7 @@
             <a href="index_oliva.ros.php"><img class="card-img-top" src="assets/img/olivia.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Oliva Ross</h5>
-              <p class="card-text">Maqueta esta orientada a comercio de alimentos pero se aplica una mayor interaccion atraves de jquery con el objetivo de mejoras la experiencia  </p>
+              <p class="card-text">Maqueta esta orientada al comercio de alimentos pero se aplica una mayor interaccion atravez de jquery con el objetivo de mejorar la experiencia  </p>
               <button type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#olivia">Ver más</button>
             </div>
 
@@ -169,7 +169,7 @@
             <a href="index_ricomida.php"><img class="card-img-top" src="assets/img/ricomida.png" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Ricomida</h5>
-              <p class="card-text">Maqueta esta orientada a comercio de alimentos pero se aplica una mayor interaccion atraves de jquery con el objetivo de mejoras la experiencia</p>
+              <p class="card-text">Maqueta esta orientada al comercio de alimentos pero se aplica una mayor interaccion atravez de jquery con el objetivo de mejorar la experiencia</p>
               <button type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#ricomida">Ver más</button>
             </div>
 
@@ -194,7 +194,7 @@
        <div class="modal-body">
          <img class="img-fluid mb-3" src="assets/img/coffe.png" alt="Card image cap">
 
-         <p>Maqueta esta realizada, en lenguaje HTML y tambien cuenta con cuenta con lenguaje de diseño CSS con un framework llamado  BOOSTRAP tambien se integro JQuery para mejorar la experiencia.</p>
+         <p>Maqueta esta realizada en lenguaje HTML y tambien cuenta con lenguaje de diseño CSS con un framework llamado  BOOSTRAP, ademas se integro JQuery para mejorar la experiencia.</p>
 
        </div>
        <div class="modal-footer">
@@ -216,7 +216,7 @@
       <div class="modal-body">
         <img class="img-fluid mb-3" src="assets/img/iguana.png" alt="Card image cap">
 
-        <p>Maqueta esta realizada, en lenguaje HTML y tambien cuenta con cuenta con lenguaje de diseño CSS con un framework llamado  BOOSTRAP tambien se integro JQuery para mejorar la experiencia</p>
+        <p>Maqueta esta realizada en lenguaje HTML y tambien cuenta  con lenguaje de diseño CSS con un framework llamado  BOOSTRAP, ademas se integro JQuery para mejorar la experiencia</p>
 
       </div>
       <div class="modal-footer">
@@ -239,7 +239,7 @@
             <div class="modal-body">
      <img class="img-fluid mb-3" src="assets/img/suricata.png" alt="Card image cap">
 
-              <p>Maqueta esta realizada, en lenguaje HTML y tambien cuenta con cuenta con lenguaje de diseño CSS con un framework llamado  BOOSTRAP tambien se integro JQuery para mejorar la experiencia</p>
+              <p>Maqueta esta realizada en lenguaje HTML y tambien cuenta con  lenguaje de diseño CSS con un framework llamado  BOOSTRAP, ademas se integro JQuery para mejorar la experiencia</p>
 
             </div>
             <div class="modal-footer">
@@ -263,7 +263,7 @@
             <div class="modal-body">
               <img class="img-fluid mb-3" src="assets/img/olivia.png" alt="Card image cap">
 
-              <p>Maqueta esta realizada, en lenguaje HTML y tambien cuenta con cuenta con lenguaje de diseño CSS con un framework llamado  BOOSTRAP tambien se integro JQuery para mejorar la experiencia</p>
+              <p>Maqueta esta realizada en lenguaje HTML y tambien cuenta con lenguaje de diseño CSS con un framework llamado  BOOSTRAP tambien se integro JQuery para mejorar la experiencia</p>
 
             </div>
             <div class="modal-footer">
@@ -286,7 +286,7 @@
             <div class="modal-body">
               <img class="img-fluid mb-3" src="assets/img/ricomida.png" alt="Card image cap">
 
-              <p>Maqueta esta realizada, en lenguaje HTML y tambien cuenta con cuenta con lenguaje de diseño CSS con un framework llamado  BOOSTRAP tambien se integro JQuery para mejorar la experiencia. </p>
+              <p>Maqueta esta realizada en lenguaje HTML y tambien cuenta con  lenguaje de diseño CSS con un framework llamado  BOOSTRAP, ademas se integro JQuery para mejorar la experiencia. </p>
 
             </div>
             <div class="modal-footer">
